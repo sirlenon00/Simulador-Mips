@@ -1,5 +1,6 @@
 # Simulador-Mips
 Simulador Mips na linguagem C.
+
 As instruções do simulador implementadas foram:
 Instruções do tipo R: add, sub, and, or, div, mult, slt, mfhi, mflo, sll, srl, sra e jr.
 Instruções do tipo I: addi, addiu, lw, lh, lb, sw, sh, sb, lui, andi, ori,slti, beq e bne.
